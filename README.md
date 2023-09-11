@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @stanleydave
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning basic principles 
-- 💞️ I’m looking to collaborate on a project 
-- 📫 How to reach me Twitter @kingdave547
+👋 Hi, I’m @stanleydave
+🌱 I’m currently starting a new job as a frontend developer
+💼 My past projects are on my respositories
+📫 How to reach me: https://no.linkedin.com/in/stanley-david-7b6b257
 
 <!---
 stanleydave/stanleydave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
