@@ -1,6 +1,4 @@
-👋 Hi, I’m @stanleydave
-🌱 I’m currently starting a new job as a frontend developer
-💼 My past projects are on my respositories
+👋 Hi, I’m stanley
 📫 How to reach me: https://no.linkedin.com/in/stanley-david-7b6b257
 
 <!---
